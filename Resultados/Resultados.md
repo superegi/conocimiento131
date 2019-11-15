@@ -11,7 +11,8 @@ Se encontraron 215 (53,7%) mujeres y 184 (46,0) hombres. La edad de los encuesta
 El nivel educacional de los encuestados fue sin estudios 6 (1,5%) personas, educación básica 57 (14%), educación media 208 (52,0%), educación técnica 59 (14,7%) y educación universitaria 70 (17,5%). La edad de los pacientes encuestados respecto a su nivel eduacional se puede encontrar en la figura X. El valor de p para la prueba de diferencias de medias de Kruskal Wallis fue menor a 0,01. ![alt text](fig_edadxeducacion.png)
 
 ## Conicimiento y pertinencia
-La encuesta tenia 
+La encuesta tenia dos grandes ítems: preguntas de conocimientos y pertinencia.
+El ítem de conocimiento tenía tres preguntas, cada una de ella sumaba un punto. El mínimo 
 
 
 
