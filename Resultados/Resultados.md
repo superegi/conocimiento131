@@ -1,6 +1,6 @@
 # Metodología
 Estudio de corte tranversal. El universo fue toda la población del Servicio de Salud Viña del Mar Quillota (SSVQ). Se incluyeron todos los ciudadanos, se excluyen funcionarios de la salud. 
-
+ixjhcjdshvhdcvho
 # Resultados
 Se realizaron 400 encuestas. En Viña del Mar, Quillota, Quintero y La Ligua se realizaron 100 encuestras en cada una, nadie rechazó participar.
 
